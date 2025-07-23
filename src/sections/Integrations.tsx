@@ -4,7 +4,7 @@ import notionIcon from "@/assets/images/notion-logo.svg";
 import slackIcon from "@/assets/images/slack-logo.svg";
 import relumeIcon from "@/assets/images/relume-logo.svg";
 import framerIcon from "@/assets/images/framer-logo.svg";
-import gitHubIcon from "@/assets/images/gitHub-logo.svg";
+import gitHubIcon from "@/assets/images/github-logo.svg";
 import IntegrationsCol from "@/components/IntegrationsCol";
 
 const integrations = [
